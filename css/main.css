@@ -348,6 +348,11 @@ textarea {
     text-align: center;
    }
 
+   .features i {
+    font-size: 3.75em;
+    margin-bottom: 40px;
+  }
+
    /* Reviews */
 
    .reviews {
@@ -366,6 +371,7 @@ textarea {
     margin: 20px 0;
     width: 55%;
    }
+
 
    /* --------------- Mobile Styles - About Page ------------------------ */
 
@@ -616,6 +622,11 @@ aside .content-wrapper .form {
 .features .features-item-description {
   width: 62%;
 }
+
+.features i {
+  font-size: 3.75em;
+  margin-bottom: 40px;
+}
  
 /* Reviews */
 .reviews article {
@@ -635,6 +646,10 @@ aside .content-wrapper .form {
 .reviews h3 {
   width: 75%;
   margin: 0;
+}
+
+.reviews figure {
+  width: 50%;
 }
  
 /* Footer */
