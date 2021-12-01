@@ -568,7 +568,7 @@ header .content-wrapper {
 }
 
 header nav {
-  width: 20%;
+  width: 30%;
 }
 
 header nav ul {
@@ -632,6 +632,7 @@ aside .content-wrapper .form {
 .reviews article {
   display: flex;
   justify-content: space-between;
+  flex-flow: row wrap;
 }
 
 .reviews h2 {
@@ -646,10 +647,6 @@ aside .content-wrapper .form {
 .reviews h3 {
   width: 75%;
   margin: 0;
-}
-
-.reviews figure {
-  width: 50%;
 }
  
 /* Footer */
