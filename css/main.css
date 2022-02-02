@@ -105,6 +105,14 @@ textarea {
     text-decoration: none;
   }
 
+  .top-page a {
+    font-weight: 800;
+  }
+
+  .top-page a:hover {
+    color:#6d9274;
+  }
+
   ul,
   ol {
     list-style-type: none;
@@ -155,7 +163,7 @@ textarea {
     margin: 0;
   }
   
-   .content-wrapper {
+  .content-wrapper {
     width: 90%;
     margin: 50px 0;
   }
